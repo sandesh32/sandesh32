@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey there!👋&nbsp; I am Sandesh Dhungana.</h1>
+<h4 align="center">Wannabe Human.</h3>
+<p align="center"> <img src="https://sandeshdhungana.biz/uploads/1/3/6/3/136341726/sandesh-dhungana_orig.jpg" alt="Sandesh Dhungana" /></p>
 
-<!--
-**sandesh32/sandesh32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can find me doing 
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge">   <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge">  <img src="https://img.shields.io/badge/-Javascript-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/-React-violet?style=for-the-badge"> <img src="https://img.shields.io/badge/-NodeJS-pink?style=for-the-badge"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+<img src="https://img.shields.io/badge/-Data structures and Algorithms-blueviolet?style=for-the-badge">          <img src="https://img.shields.io/badge/-Projects-blue?style=for-the-badge">  
+
+### What I want to learn
+
+<img src="https://img.shields.io/badge/-Data Science and Machine Learning-ffae42?style=for-the-badge">     <img src="https://img.shields.io/badge/-Web and App Development-blueviolet?style=for-the-badge">
+
+<br>
+
+![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandesh32&theme=bluewhite&show_icons=true)
+
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandesh-dhungana-b5ba251a2/) 
