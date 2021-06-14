@@ -4,7 +4,7 @@
 
 ### You can find me doing 
 
-<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge">   <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge">  <img src="https://img.shields.io/badge/-Javascript-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/-React-violet?style=for-the-badge"> <img src="https://img.shields.io/badge/-NodeJS-pink?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge">   <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge">  <img src="https://img.shields.io/badge/-Javascript-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/-React-violet?style=for-the-badge"> <img src="https://img.shields.io/badge/-NodeJS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge">
 
 ### Currently working on
 
